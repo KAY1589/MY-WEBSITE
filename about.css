@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+  }  
+  
+  
+  
+  
+  
+  .about{
+padding: 0%;
+margin: 10;
+font-family: Cambria;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: double;
+}
